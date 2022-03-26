@@ -9,3 +9,6 @@ Scraper
 
 **Data**
 https://docs.google.com/spreadsheets/d/14rd7qAMbOtdz66mOMvEycpeoTlIbs1s8/edit?usp=sharing&ouid=108819407423296546524&rtpof=true&sd=true 
+
+**Plan of action**
+https://docs.google.com/document/d/1cAOrXaXKfkDcOW6g8-xl6bh6b4R_Gx6FbU5ai7NrFH4/edit
